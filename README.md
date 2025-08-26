@@ -1,4 +1,4 @@
-# API REST Spring Boot - Sistema de Gestion de Ususarios y Companías
+# API REST Spring Boot - Sistema de Gestión de Usuarios y Compañía 
 
 ## Descripción
 
@@ -77,6 +77,7 @@ Ejecutar el proyecto desde ApiAplication :
 Acceder en http://localhost:8080/h2-ui <br> JDBC URL: jdbc:h2:mem:testdb <br>Usuario: sa <br>Contraseña: vacia
 
 Ingresar manualmente los datos en las tablas y probar cada enpoint o bien probar los endpoints con postman.
+
 
 
 
